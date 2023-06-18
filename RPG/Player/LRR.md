@@ -1,30 +1,30 @@
-# [RPG](../README.md) -> [Player](./README.md) -> Level, Reputação e Rank
+# [RPG](../RPG.md) -> [Player](./Player.md) -> Level, Reputação e Rank
 
 ## Level
 
 Level é necessario para ficar mais forte para fazer Missões e subir de Rank.
 
-5%: Requisito para Rank I  
-10%: Habilidade de Trilha  
-15%: Habilidade de Classe, Poder e Elemento da Natureza  
-20%: Aumento de Atributo e Habilidade  
-25%: Requisito para Rank II  
-30%: Sonho  
-35%: Habilidade de Classe, Poder e Grau de Treinamento  
-40%: Habilidade de Trilha e Habilidade  
-45%: Habilidade de Classe e Poder  
-50%: Aumento de Atributo e Elemento do Outro Lado  
-55%: Requisito para Rank III  
-60%: Pesadelo e Habilidade  
-65%: Habilidade de Trilha  
-70%: Habilidade de Classe, Poder e Grau de Treinamento  
-75%: Sonho Realizado e Habilidade  
-80%: Aumento de Atributo e Habilidade  
-85%: Requisito para Rank IV  
-90%: Habilidade  
-95%: Aumento de Atributo  
-99%: Habilidade de Trilha  
-100%: Requisito para Rank ? e Poder  
+Level 1: Requisito para Rank I  
+Level 2:  
+Level 3: Poder  
+Level 4: Aumento de Atributo e Habilidade  
+Level 5: Requisito para Rank II  
+Level 6:  
+Level 7: Poder e Grau de Treinamento  
+Level 8: Habilidade  
+Level 9: Poder  
+Level 10: Aumento de Atributo  
+Level 11: Requisito para Rank III  
+Level 12: Habilidade  
+Level 13:  
+Level 14: Poder  
+Level 15: Habilidade  
+Level 16: Aumento de Atributo e Habilidade  
+Level 17: Requisito para Rank IV  
+Level 18: Habilidade  
+Level 19: Aumento de Atributo  
+Level 20:  
+Level 21: Poder  
 
 ## Reputação
 

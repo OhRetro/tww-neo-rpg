@@ -1,7 +1,8 @@
-# [RPG](../README.md) -> Player
+# [RPG](../RPG.md) -> Player
 
 1. [Level, Reputação e Rank](./LRR.md)
-2. [Classes](./CLASSES.md)
+2. [Classes](./Classes/Classes.md)
+3. [Poderes](./Poderes/Poderes.md)
 
 ## Ficha Template
 
