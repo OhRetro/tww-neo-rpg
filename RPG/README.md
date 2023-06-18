@@ -1,5 +1,7 @@
 # RPG
 
+1. [Player](./Player/README.md)
+
 ## Sobre
 
 Iniciado: 29/12/22  
