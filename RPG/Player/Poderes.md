@@ -1,19 +1,18 @@
 # [RPG](../../RPG.md) -> [Player](../Player.md) -> Poderes
 
-Iniciante:
-Summonar Arma
-Compatilhar PE
-Ataque Desarmado ou Ataque Elemental (Level 15%)
+## Iniciante
 
-Intermediário:
-Escudeiro ou Aprimorar Corpo (Level 35%)
-Summonar Explosivos ou Empunhadura Dupla (Level 45%)
-
-Avançado:
-Armado Até os Dentes ou Aprimoração de Arma (Level 70%)
-
-Especialista:
-Anel de Armas
+[Summonar Arma]()  
+[Compatilhar PE]  
+[Ataque Desarmado]() 
+[Ataque Elemental]()  
+[Escudeiro]()  
+[Aprimorar Corpo]()  
+[Summonar Explosivos]()  
+[Empunhadura Dupla]()  
+[Armado Até os Dentes]()  
+[Aprimoração de Arma]()  
+[Anel de Armas]()
 
 ## Upgrades e Bônus
 

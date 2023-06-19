@@ -1,8 +1,8 @@
 # [RPG](../RPG.md) -> Player
 
-1. [Level, Reputação e Rank](./LRR.md)
-2. [Classes](./Classes/Classes.md)
-3. [Poderes](./Poderes/Poderes.md)
+1. [Level, Reputação e Rank](./Player/LRR.md)
+2. [Classes](./Player/Classes.md)
+3. [Poderes](./Player/Poderes.md)
 
 ## Ficha Template
 
@@ -26,7 +26,7 @@ PRE: 1
 
 HP: 0  
 EE: 0  
-SAN: 0  
+SAN: 100%  
 
 CA: 0  
 CD: 0

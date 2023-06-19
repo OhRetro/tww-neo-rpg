@@ -1,4 +1,4 @@
-# [RPG](../RPG.md) -> [Player](./Player.md) -> Level, Reputação e Rank
+# [RPG](../../RPG.md) -> [Player](../Player.md) -> L.R.R
 
 ## Level
 
@@ -50,3 +50,4 @@ Ganhe Level para subir de Rank.
 |Intermediário|5|
 |Avançado|10|
 |Especialista|17|
+|Ultimate|20|

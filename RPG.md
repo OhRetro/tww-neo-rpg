@@ -1,6 +1,6 @@
 # RPG
 
-1. [Player](./Player/Player.md)
+1. [Player](./RPG/Player.md)
 
 ## Sobre
 

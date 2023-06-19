@@ -1,4 +1,4 @@
-# [RPG](../../RPG.md) -> [Player](../Player.md) -> [Classes](./Classes.md)
+# [RPG](../../../RPG.md) -> [Player](../../Player.md) -> [Classes](../Classes.md)
 
 ## Bruxo das Armas de Fogo
 
@@ -9,9 +9,6 @@ Cada Level: +(2 + [VIG]) HP Máximo
 
 Energia Espiritual (EE) Inicial: 5 + Presença  
 Cada Level: +(4 + [PRE]) EE Máximo
-
-Sanidade (SAN) Inicial: 20  
-Cada Level: +5 SAN Máximo
 
 ### Pericias
 
