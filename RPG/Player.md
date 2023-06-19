@@ -3,6 +3,7 @@
 1. [Level, Reputação e Rank](./Player/LRR.md)
 2. [Classes](./Player/Classes.md)
 3. [Poderes](./Player/Poderes.md)
+4. [Habilidades](./Player/Habilidades.md)
 
 ## Ficha Template
 

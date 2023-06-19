@@ -22,7 +22,7 @@ Capaz de Summonar Armas Level 2 de Outra Classe
 
 ## Lista de Classes
 
-[Bruxo das Armas de Corpo A Corpo](./Classes/CC.md)  
-[Bruxo das Armas de Disparo](./Classes/CD.md)  
-[Bruxo das Armas de Fogo](./Classes/CF.md)  
-[Bruxo Lunático do Arsenal](./Classes/CLA.md)
+- [Bruxo das Armas de Corpo A Corpo](./Classes/CC.md)  
+- [Bruxo das Armas de Disparo](./Classes/CD.md)  
+- [Bruxo das Armas de Fogo](./Classes/CF.md)  
+- [Bruxo Lunático do Arsenal](./Classes/CLA.md)

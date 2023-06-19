@@ -2,17 +2,17 @@
 
 ## Lista de Poderes
 
-[Summonar Arma]()  
-[Compatilhar PE]  
-[Ataque Desarmado]()  
-[Ataque Elemental]()  
-[Escudeiro]()  
-[Aprimorar Corpo]()  
-[Summonar Explosivos]()  
-[Empunhadura Dupla]()  
-[Armado Até os Dentes]()  
-[Aprimoração de Arma]()  
-[Anel de Armas]()
+- [Summonar Arma](./Poderes/Summonar-Arma.md)  
+- [Compatilhar PE]  
+- [Ataque Desarmado]()  
+- [Ataque Elemental]()  
+- [Escudeiro]()  
+- [Aprimorar Corpo]()  
+- [Summonar Explosivos]()  
+- [Empunhadura Dupla]()  
+- [Armado Até os Dentes]()  
+- [Aprimoração de Arma]()  
+- [Anel de Armas]()
 
 ## Upgrades
 
