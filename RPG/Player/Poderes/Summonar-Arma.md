@@ -2,62 +2,70 @@
 
 ## Summonar Arma
 
-Summona uma Arma de escolha da respectiva Classe do Usuario. 
+O Usuario manifesta uma Arma de seu Espirito.  
+Summona uma Arma de escolha da respectiva Classe do Usuario.  
+Após a Duração a Arma ira Desaparecer.
 
-Summona uma Arma Simples de uma Outra Classe (Rank III) (+1 PE). 
+Ação de Movimento.  
+Alcance: Pessoal  
+Duração: Cena
 
- 
+Custo de EE: ([Peso da Arma] + [Level da Arma])
 
-Após a Duração a Arma ira Desaparecer. 
+### Upgrades
 
- 
+#### Upgrade "Ação Dinâmica"
 
-Ação de Movimento. 
+Pode summonar uma Arma como se fosse Ação Livre.
 
-Alcance: Pessoal 
+Custo: 1 PU  
+Req.: Rank I
+Custo de EE: +1
 
-Duração: Cena 
+#### Upgrade "Arma Favorita"
 
-Custo de PE: ([Espaços da Arma]+[Categoria da Arma]) PE 
+Escolhe uma Arma para receber –1 EE (vulgo Desconto) ao Summonar.
 
- 
+Custo: 1 PU  
+Req.: Rank II  
+Custo de EE: -1 Ao summonar a Arma com o desconto.
 
-Upgrade I: 
+#### Upgrade "Custo Eficaz I"
 
-Passa a ser uma Ação Livre 
+O Custo de EE passa a ser apenas o Peso da Arma.
 
- 
+Custo: 1 PU  
+Req.: Rank III  
+Novo Custo de EE Base: [Peso da Arma]
 
-Upgrade II (Rank II): 
+#### Upgrade "Auto Provido I"
 
-Pode Summonar uma Arma com uma Melhoria Aleatória (+1 PE) 
+Pode summonar uma Arma Level 1 de uma Outra Classe.
 
- 
+Custo: 0 PU  
+Req.: Rank III  
+Custo de EE: +1
 
-Upgrade III (Rank II): 
+#### Upgrade "Invocação Aprimorada"
 
-Escolhe uma Arma para receber –1 Categoria ao Summonar 
+Pode summonar uma Arma com uma Melhoria de sua escolha.
 
- 
+Custo: 2 PU  
+Req.: Rank IV  
+Custo de EE: +2
 
-Upgrade IV (Rank III e 2 Pontos de Upgrade): 
+#### Upgrade "Custo Eficaz II"
 
-O Custo de PE passa a ser apenas a Categoria da Arma 
+O Custo de EE passa a ser apenas o Level da Arma.
 
- 
+Custo: 1 PU  
+Req.: Rank V  
+Novo Custo de EE Base: [Level da Arma]
 
-Upgrade V (Rank IV e 2 Pontos de Upgrade): 
+#### Upgrade "Auto Provido II"
 
-Pode Summonar uma Arma com uma Melhoria Escolhida (+2 PE) 
+Pode summonar uma Arma Level 2 de uma Outra Classe.
 
- 
-
-Bônus de Rank III: 
-
-Pode Summonar uma Arma com Elemento do Usuario (+1 PE) 
-
-Pode Summonar uma Arma de Outra Classe com Elemento do Usuario (Rank IV) (+2 PE) 
-
-D: +2 
-
-Alvos fracos contra o Elemento vai receber +4 de Dano. 
+Custo: 1 PU  
+Req.: Rank V  
+Custo de EE: +2

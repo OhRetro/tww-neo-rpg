@@ -1,6 +1,7 @@
 # RPG
 
 1. [Player](./RPG/Player.md)
+2. [Raças](./RPG/Raças.md)
 
 ## Sobre
 

@@ -9,7 +9,7 @@
 
 Nome:  
 Idade: 17 + (d6)  
-Raça: Humano
+Raça:
 
 Olho Dominante:  
 Mão Dominante:  
@@ -32,12 +32,12 @@ SAN: 100%
 CA: 0  
 CD: 0
 
-Habilidades:
-
-Pericias:
-
 Poderes:
 
+Habilidades:
+
 Rituais:
+
+Pericias:
 
 Inventário (0/0):

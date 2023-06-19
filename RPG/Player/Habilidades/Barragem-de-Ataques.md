@@ -2,16 +2,11 @@
 
 ## Barragem de Ataques
 
-Barragem de Ataques é uma habilidade que permite ao usuário lançar vários ataques em uma série rápida, aumentando assim suas chances de acertar o alvo, o Dados de Acerto são dobrados; Sempre que rolar o número máximo no Dado de Dano na Arma, role um Dado de Dano adicional. 
+Barragem de Ataques é uma habilidade permite ao usuário lançar uma série rápida de ataques, aumentando suas chances de acertar o alvo. Os dados de acerto são dobrados e, se o número máximo for rolado no dado de dano da arma, um dado de dano adicional é lançado.
 
- 
+Armas Aplicadas: Armas de Corpo a Corpo (exceto Motoserra).  
 
-Armas Aplicadas: Armas de Corpo a Corpo (exceto Motoserra e Tipo Pesado). 
-
- 
-
-Ação Padrão. 
-
-Duração: Instantânea 
-
-Custo de PE: 4 PE 
+Ação Padrão.  
+Duração: Instantânea  
+Req.: Ambas **FOR** e **AGI** tem que ser igual ao Level da Arma.  
+Custo de EE: (3 + [Level da Arma])
