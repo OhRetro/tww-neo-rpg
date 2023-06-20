@@ -19,7 +19,7 @@ Custo de EE: ([Peso da Arma] + [Level da Arma])
 Pode summonar uma Arma como se fosse Ação Livre.
 
 Custo: 1 PU  
-Req.: Rank I
+Req.: Rank I  
 Custo de EE: +1
 
 #### Upgrade "Arma Favorita"
