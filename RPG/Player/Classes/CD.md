@@ -12,4 +12,4 @@ Cada Level: +(3 + [PRE]) EE Máximo
 
 ### Pericias
 
-(5 + [INT]) Pericias
+(4 + [INT]) Pericias

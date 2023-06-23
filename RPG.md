@@ -5,11 +5,15 @@
 
 ## Sobre
 
-Iniciado: 29/12/22  
-Reboot Iniciado: 2/6/23
-
-Atualizado: 17/6/23
+Um RPG inspirado em Ordem Paranormal
 
 ## Temas
 
 Fantasia, Distopia, Cyberpunk, Mafia, Pós-Apocaliptico
+
+## Outros
+
+Iniciado: 29/12/22  
+Reboot Iniciado: 2/6/23
+
+Atualizado: 17/6/23

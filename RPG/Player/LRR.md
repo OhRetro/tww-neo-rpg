@@ -7,7 +7,7 @@ Level é necessario para ficar mais forte para fazer Missões e subir de Rank.
 Level 1: Requisito para Rank I  
 Level 2:  
 Level 3: Poder  
-Level 4: Aumento de Atributo e Habilidade  
+Level 4: Habilidade e Aumento de Atributo  
 Level 5: Requisito para Rank II  
 Level 6:  
 Level 7: Poder e Grau de Treinamento  
@@ -19,11 +19,11 @@ Level 12: Habilidade
 Level 13:  
 Level 14: Poder  
 Level 15: Habilidade  
-Level 16: Aumento de Atributo e Habilidade  
+Level 16: Habilidade e Aumento de Atributo  
 Level 17: Requisito para Rank IV  
 Level 18: Habilidade  
 Level 19: Aumento de Atributo  
-Level 20:  
+Level 20: Requisito para Rank V  
 Level 21: Poder  
 
 ## Reputação

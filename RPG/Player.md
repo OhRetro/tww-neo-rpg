@@ -28,16 +28,24 @@ PRE: 1
 HP: 0  
 EE: 0  
 SAN: 100%  
-
 CA: 0  
-CD: 0
 
-Poderes:
+### Poderes
 
-Habilidades:
+- Nemhum
 
-Rituais:
+### Habilidades
 
-Pericias:
+- Nemhum
 
-Inventário (0/0):
+### Rituais
+
+- Nemhum
+  
+### Pericias
+
+- Nemhum
+
+### Inventário (0/0)
+
+- Nemhum
