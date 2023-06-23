@@ -6,7 +6,7 @@ O Usuario manifesta uma Arma de seu Espirito.
 Summona uma Arma de escolha da respectiva Classe do Usuario.  
 Após a Duração a Arma ira Desaparecer.
 
-![Exemplo Visual](./Summonar-Arma-Visual.gif)
+![*Exemplo Visual era pra estar Aqui*][EV]
 
 Ação de Movimento.  
 Alcance: Pessoal  
@@ -71,3 +71,5 @@ Pode summonar uma Arma Level 2 de uma Outra Classe.
 Custo: 1 PU  
 Req.: Rank V  
 Custo de EE: +2
+
+[EV]: https://static.wikia.nocookie.net/powerlisting/images/b/b7/Hol_Horse_%28JoJo%29_Emperor.gif/revision/latest/scale-to-width-down/250?cb=20190424234918
