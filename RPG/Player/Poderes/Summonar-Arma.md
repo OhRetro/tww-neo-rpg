@@ -6,6 +6,8 @@ O Usuario manifesta uma Arma de seu Espirito.
 Summona uma Arma de escolha da respectiva Classe do Usuario.  
 Após a Duração a Arma ira Desaparecer.
 
+![Exemplo Visual](./Summonar-Arma-Visual.gif)
+
 Ação de Movimento.  
 Alcance: Pessoal  
 Duração: Cena
