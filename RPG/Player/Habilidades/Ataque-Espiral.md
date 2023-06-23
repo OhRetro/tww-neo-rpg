@@ -6,6 +6,7 @@ Ataque Espiral é uma habilidade que permite ao usuário atacar varios Alvos em 
 
 Armas Aplicadas: Armas de Corpo a Corpo (exceto Motoserra).
 
-Ação Padrão.
-Duração: Instantânea
-Custo de PE: 2 PE
+Ação Padrão.  
+Duração: Instantânea  
+Req.: Ambas **FOR** e **AGI** tem que ser igual ao Level da Arma.  
+Custo de EE: 2

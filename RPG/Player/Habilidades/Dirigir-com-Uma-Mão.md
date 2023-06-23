@@ -10,4 +10,4 @@ Armas Aplicadas: Armas de Uma Mão e Leve.
 Ação Padrão.  
 Duração: Instantânea  
 Req.: Perícia: Pilotagem  
-Custo de PE: 2 EE
+Custo de EE: 2

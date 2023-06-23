@@ -2,7 +2,8 @@
 
 ## A Vontade de Determinação
 
-A Vontade de Determinação é uma habilidade que permite ao usuário sobreviver a um ataque crítico, deixando-o com pelo menos 1 de vida e só pode é ativada uma vez a cada dia e é ativado automaticamente.
+A Vontade de Determinação é uma habilidade que permite ao usuário sobreviver a um ataque *overkill*, deixando-o com pelo menos 1 de vida e só pode é ativada uma vez a cada dia e é ativado automaticamente caso tive EE suficiente.
 
-Duração: Instantânea
-Custo de PE: (Metade do PE Máximo) PE
+Automático.  
+Duração: Instantânea  
+Custo de EE: (Metade do EE Máximo)
