@@ -72,4 +72,4 @@ Custo: 1 PU
 Req.: Rank V  
 Custo de EE: +2
 
-[EV]: https://static.wikia.nocookie.net/powerlisting/images/b/b7/Hol_Horse_%28JoJo%29_Emperor.gif/revision/latest/scale-to-width-down/250?cb=20190424234918
+[EV]: https://static.wikia.nocookie.net/powerlisting/images/b/b7/Hol_Horse_(JoJo)_Emperor.gif
