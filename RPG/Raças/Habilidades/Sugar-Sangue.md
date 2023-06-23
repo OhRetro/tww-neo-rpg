@@ -8,4 +8,4 @@ Ao sugar o Alvo jogue d6, o número que cair vai ser a quantidade de HP que ser�
 Ação Padrão  
 Duração: Instantânea  
 Req.: Raça: Humano-Demõnio ou Vampiro  
-Custo de PE: 1 EE  
+Custo de EE: 1  
