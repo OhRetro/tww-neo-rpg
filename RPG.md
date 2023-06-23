@@ -5,15 +5,13 @@
 
 ## Sobre
 
-Um RPG inspirado em Ordem Paranormal
+Um RPG inspirado em Ordem Paranormal, onde o mundo está em um estado pós-apocalíptico após uma invasão de monstros que vieram do mundo espiritual, causando mudanças na natureza das coisas. Pessoas estão despertando poderes sobrenaturais e outras transformações ocorreram.
 
 ## Temas
 
-Fantasia, Distopia, Cyberpunk, Mafia, Pós-Apocaliptico
+Fantasia, Distopia, Pós-Apocaliptico, Cyberpunk, Mafia, Gang
 
 ## Outros
 
 Iniciado: 29/12/22  
 Reboot Iniciado: 2/6/23
-
-Atualizado: 17/6/23
