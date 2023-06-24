@@ -6,4 +6,5 @@ A Vontade de Determinação é uma habilidade que permite ao usuário sobreviver
 
 Automático.  
 Duração: Instantânea  
+Req.: Rank IV  
 Custo de EE: (Metade do EE Máximo)
