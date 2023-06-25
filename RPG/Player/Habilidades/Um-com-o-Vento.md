@@ -6,4 +6,5 @@ Um com o Vento é uma habilidade que permite ao usuário mover-se com velocidade
 
 Ação Livre.  
 Duração: Turno  
+Req.: **AGI** 2  
 Custo de EE: 3
