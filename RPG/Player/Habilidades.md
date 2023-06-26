@@ -1,4 +1,4 @@
-# [RPG](../../RPG.md) -> [Player](../Player.md) -> Habilidades
+# [↺ Voltar](../Player.md) / Habilidades
 
 ## Lista de Habilidades
 

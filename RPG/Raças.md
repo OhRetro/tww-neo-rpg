@@ -1,4 +1,4 @@
-# [RPG](../RPG.md) -> Raças
+# [↺ Voltar](../RPG.md) / Raças
 
 ## Lista de Raças
 
@@ -8,6 +8,6 @@
 - [Vampiro](./Raças/Vampiro.md)
 - [Meio-Meio](./Raças/Meio-Meio.md)
 
-## Habilidades Exclusivas de Raças
+## Habilidades de Raças
 
 - [Sugar Sangue](./Raças/Habilidades/Sugar-Sangue.md)

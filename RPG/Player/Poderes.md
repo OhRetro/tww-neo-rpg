@@ -1,4 +1,4 @@
-# [RPG](../../RPG.md) -> [Player](../Player.md) -> Poderes
+# [↺ Voltar](../Player.md) / Poderes
 
 ## Lista de Poderes
 

@@ -1,4 +1,4 @@
-# [RPG](../RPG.md) -> Player
+# [↺ Voltar](../RPG.md) / Player
 
 1. [Level, Reputação e Rank](./Player/LRR.md)
 2. [Classes](./Player/Classes.md)

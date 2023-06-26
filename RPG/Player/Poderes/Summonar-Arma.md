@@ -1,4 +1,4 @@
-# [RPG](../../../RPG.md) -> [Player](../../Player.md) -> [Poderes](../Poderes.md)
+# [↺ Voltar](../Poderes.md) / Poderes
 
 ## Summonar Arma
 

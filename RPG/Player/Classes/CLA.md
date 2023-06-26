@@ -1,4 +1,4 @@
-# [RPG](../../../RPG.md) -> [Player](../../Player.md) -> [Classes](../Classes.md)
+# [↺ Voltar](../Classes.md) / Classes
 
 ## Bruxo Lunático do Arsenal
 

@@ -1,4 +1,4 @@
-# [RPG](../../../RPG.md) -> [Player](../../Player.md) -> [Habilidades](../Habilidades.md)
+# [↺ Voltar](../Habilidades.md) / Habilidades
 
 ## Longo Golpe
 

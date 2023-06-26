@@ -1,4 +1,4 @@
-# [RPG](../../RPG.md) -> [Raças](../Ra%C3%A7as.md)
+# [↺ Voltar](../Raças.md) / Raças
 
 ## Meio-Meio
 
