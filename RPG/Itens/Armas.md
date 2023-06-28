@@ -4,12 +4,20 @@
 
 As armas podem assumir diversas formas, desde espadas afiadas, machados e arcos até pistolas e lanças.
 
+### Tipos de Danos
+
+Cada arma tem seus tipos de danos.
+
 | Tipos de Danos | Representação |
 | -------------- | :-----------: |
 | Cortante       |       C       |
 | Impacto        |       I       |
 | Perfuração     |       P       |
 | Balístico      |       B       |
+
+### Alcances
+
+Cada arma tem seus alcances.
 
 | Alcances | Representação |
 | -------- | :-----------: |
