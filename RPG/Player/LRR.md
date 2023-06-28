@@ -31,13 +31,13 @@ Level 21: Poder
 Subindo de Level pode liberar mais Ranks.  
 [Mais detalhe aqui.](./Classes.md)
 
-|Nome do Rank|Representação|Level|
-|-|:-:|:-:|
-|Iniciante|I|1|
-|Intermediário|II|5|
-|Avançado|III|10|
-|Especialista|IV|17|
-|Ultimate|V|20|
+| Nome do Rank  | Representação | Level |
+| ------------- | :-----------: | :---: |
+| Iniciante     |       I       |   1   |
+| Intermediário |      II       |   5   |
+| Avançado      |      III      |  10   |
+| Especialista  |      IV       |  17   |
+| Ultimate      |       V       |  20   |
 
 ## Reputação
 
@@ -52,31 +52,31 @@ Morte de Membro do Grupo: -5
 
 Existe tipos diferentes de Missões, aqui estar uma delas.
 
-|Tipos|
-|-|
-|Investigação|
-|Resgate|
-|Limpeza|
-|Especial|
+|    Tipos     |
+| ------------ |
+| Investigação |
+| Resgate      |
+| Limpeza      |
+| Especial     |
 
 ### Dificuldade da Missão
 
 Cada dificuldade tem seu valor e requesitos.
 
-|Dificuldade|Valor|Liberado no Rank|
-|-|:-:|:-:|
-|Fácil|1|I|
-|Médio|2|II|
-|Díficil|3|III|
-|Extremo|4|III|
-|Estado Imperdoável (EI)|5|IV|
+|       Dificuldade       | Valor | Liberado no Rank |
+| ----------------------- | :---: | :--------------: |
+| Fácil                   |   1   |        I         |
+| Médio                   |   2   |        II        |
+| Díficil                 |   3   |       III        |
+| Extremo                 |   4   |       III        |
+| Estado Imperdoável (EI) |   5   |        IV        |
 
 ### Dificuldade Extra
 
 Dificuldade Extra é um modificador de ganho de reputação exclusivo para as dificuldades 4 (Extremo) e 5 (EI), então logo o valor dele nas dificuldades 3 e baixo é 0 automaticamente, A não ser que o mestre quiser que seja liberado para essas dificuldades.
 
-|D. Extra|Valor|
-|-|:-:|
-|Apenas 1 Reroll pro Grupo|+1|
-|Sem Reroll|+2|
-|5 e Menos no Dado é Desastroso|+3|
+|            D. Extra            | Valor |
+| ------------------------------ | :---: |
+| Apenas 1 Reroll pro Grupo      |  +1   |
+| Sem Reroll                     |  +2   |
+| 5 e Menos no Dado é Desastroso |  +3   |

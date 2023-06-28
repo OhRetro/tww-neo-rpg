@@ -2,18 +2,16 @@
 
 ## Lista de Poderes
 
-**ESSA LISTA ESTAR INCOMPLETA**  
-un = não terminada
-
 - [Summonar Arma](./Poderes/Summonar-Arma.md)  
 - [Ataque Desarmado](./Poderes/Ataque-Desarmado.md) un  
+- [Ataque Espiritual](./Poderes/Ataque-Espiritual.md) un  
 - [Escudeiro](./Poderes/Escudeiro.md) un  
 - [Aprimorar Corpo](./Poderes/Aprimorar-Corpo.md) un  
 - [Summonar Explosivos](./Poderes/Summonar-Explosivos.md) un  
 - [Empunhadura Dupla](./Poderes/Empunhadura-Dupla.md) un  
 - [Armado Até os Dentes](./Poderes/Armado-Até-os-Dentes.md) un  
 - [Aprimoração de Arma](./Poderes/Aprimoração-de-Arma.md) un  
-- [Anel de Armas](./Poderes/Anel-de-Armas.md) un
+- [Anel de Armas](./Poderes/Anel-de-Armas.md) un  
 
 ## Pontos de Upgrades (PU)
 
