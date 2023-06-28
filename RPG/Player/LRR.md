@@ -26,28 +26,57 @@ Level 19: Aumento de Atributo
 Level 20: Requisito para Rank V  
 Level 21: Poder  
 
+## Ranks
+
+Subindo de Level pode liberar mais Ranks.  
+[Mais detalhe aqui.](./Classes.md)
+
+|Nome do Rank|Representação|Level|
+|-|:-:|:-:|
+|Iniciante|I|1|
+|Intermediário|II|5|
+|Avançado|III|10|
+|Especialista|IV|17|
+|Ultimate|V|20|
+
 ## Reputação
 
-Reputação é necessario para ganhar confiança dos outros para fazer outros tipos de Missões.
+Reputação é necessario para ganhar confiança dos outros para fazer outros tipos de Missões.  
+Reputação Máxima: 1000
 
-Missão Cumprida: +5*[Dificuldade da Missão]  
+Missão Cumprida: +5*([Dificuldade da Missão] + [Dificuldade Extra])  
 Morte de Inocente: -10  
 Morte de Membro do Grupo: -5
 
-|Dificuldade|Valor|
+### Tipos de Missão
+
+Existe tipos diferentes de Missões, aqui estar uma delas.
+
+|Tipos|
+|-|
+|Investigação|
+|Resgate|
+|Limpeza|
+|Especial|
+
+### Dificuldade da Missão
+
+Cada dificuldade tem seu valor e requesitos.
+
+|Dificuldade|Valor|Liberado no Rank|
+|-|:-:|:-:|
+|Fácil|1|I|
+|Médio|2|II|
+|Díficil|3|III|
+|Extremo|4|III|
+|Estado Imperdoável (EI)|5|IV|
+
+### Dificuldade Extra
+
+Dificuldade Extra é um modificador de ganho de reputação exclusivo para as dificuldades 4 (Extremo) e 5 (EI), então logo o valor dele nas dificuldades 3 e baixo é 0 automaticamente, A não ser que o mestre quiser que seja liberado para essas dificuldades.
+
+|D. Extra|Valor|
 |-|:-:|
-|Fácil|1|
-|Médio|2|
-|Díficil|3|
-
-## Rank
-
-Ganhe Level para subir de Rank.  
-
-|Nome do Rank|Level|
-|-|:-:|
-|Iniciante|1|
-|Intermediário|5|
-|Avançado|10|
-|Especialista|17|
-|Ultimate|20|
+|Apenas 1 Reroll pro Grupo|+1|
+|Sem Reroll|+2|
+|5 e Menos no Dado é Desastroso|+3|

@@ -2,6 +2,9 @@
 
 ## Lista de Poderes
 
+**ESSA LISTA ESTAR INCOMPLETA**  
+un = não terminada
+
 - [Summonar Arma](./Poderes/Summonar-Arma.md)  
 - [Ataque Desarmado](./Poderes/Ataque-Desarmado.md) un  
 - [Escudeiro](./Poderes/Escudeiro.md) un  
