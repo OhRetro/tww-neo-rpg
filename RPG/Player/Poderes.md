@@ -2,8 +2,8 @@
 
 ## Lista de Poderes
 
-- [Summonar Arma](./Poderes/Summonar-Arma.md)  
-- [Ataque Desarmado](./Poderes/Ataque-Desarmado.md) un  
+- [Summonar Arma](./Poderes/Summonar-Arma.md)
+- [Ataque Desarmado](./Poderes/Ataque-Desarmado.md)
 - [Ataque Espiritual](./Poderes/Ataque-Espiritual.md) un  
 - [Escudeiro](./Poderes/Escudeiro.md) un  
 - [Aprimorar Corpo](./Poderes/Aprimorar-Corpo.md) un  

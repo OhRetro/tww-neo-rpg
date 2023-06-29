@@ -26,7 +26,7 @@ Level 19: Aumento de Atributo
 Level 20: Requisito para Rank V  
 Level 21: Poder  
 
-## Ranks
+## Rank
 
 Subindo de Level pode liberar mais Ranks.  
 [Mais detalhe aqui.](./Classes.md)
@@ -52,12 +52,12 @@ Morte de Membro do Grupo: -5
 
 Existe tipos diferentes de Missões, aqui estar uma delas.
 
-|    Tipos     |
-| ------------ |
-| Investigação |
-| Resgate      |
-| Limpeza      |
-| Especial     |
+#### Tipos
+
+- Investigação
+- Resgate
+- Limpeza
+- Especial
 
 ### Dificuldade da Missão
 

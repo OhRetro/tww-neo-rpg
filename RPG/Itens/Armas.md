@@ -2,7 +2,8 @@
 
 ## Armas
 
-As armas podem assumir diversas formas, desde espadas afiadas, machados e arcos até pistolas e lanças.
+As armas podem assumir diversas formas, desde espadas afiadas, machados e arcos até pistolas e lanças.  
+Elas também tem [Modificadores](./Armas/Modificadores.md).
 
 ### Tipos de Danos
 
@@ -19,68 +20,63 @@ Cada arma tem seus tipos de danos.
 
 Cada arma tem seus alcances.
 
-| Alcances | Representação |
-| -------- | :-----------: |
-| Pequeno  |      9m       |
-| Médio    |      18m      |
-| Longo    |      36m      |
-| Extremo  |      90m      |
+| Alcances | Valor | Representação |
+| -------- | :---: | :-----------: |
+| Curto    |  9m   |       C       |
+| Médio    |  18m  |       M       |
+| Longo    |  36m  |       L       |
+| Extremo  |  90m  |       X       |
 
 ### Armas de Corpo a Corpo
 
-|     Armas/Golpes      | Level | Peso  |   Dano   | Crítico | Alcance | Tipo de Dano | Propriedades |
-| --------------------- | :---: | :---: | :------: | :-----: | :-----: | :----------: | :----------: |
-| Coronhada             |   -   |   -   | 1d4/1d6  |   x2    |    -    |      I       |     Leve     |
-| Faca                  |   1   |   1   |   1d4    |   19    |         |              |     Leve     |
-| Martelo               |   1   |   1   |   1d6    |   x2    |         |              |     Leve     |
-| Punhal                |   1   |   1   |   1d4    |   x3    |         |              |     Leve     |
-| Bastão                |   1   |   1   | 1d6/1d8  |   x2    |         |              |              |
-| Machete               |   1   |   1   |   1d6    |   19    |         |              |              |
-| Lança                 |   1   |   1   |   1d6    |   x2    |         |              |              |
-| Cajado                |   1   |   2   |   1d6    |   x2    |         |              |              |
-| Machadinha            |   2   |   1   |   1d6    |   x3    |         |              |     Leve     |
-| Nunchaku              |   2   |   1   |   1d8    |   x2    |         |              |     Leve     |
-| Corrente              |   2   |   1   |   1d8    |   x2    |         |              |              |
-| Espada                |   2   |   1   | 1d8/1d10 |   19    |         |              |              |
-| Florete               |   2   |   1   |   1d6    |   18    |         |              |              |
-| Machado               |   2   |   1   |   1d8    |   x3    |         |              |              |
-| Maça                  |   2   |   1   |   2d4    |   x2    |         |              |              |
-| Acha                  |   2   |   2   |   1d12   |   x3    |         |              |              |
-| Gadanho               |   2   |   2   |   2d4    |   x4    |         |              |              |
-| Katana                |   2   |   2   |   1d10   |   19    |         |              |              |
-| Marrete               |   2   |   2   |   3d4    |   x2    |         |              |              |
-| Montante              |   2   |   2   |   2d6    |   19    |         |              |              |
-| Motoserra             |   2   |   2   |   3d6    |   x2    |         |              |              |
-| Martelo Longo Gigante |   3   |   4   |   2d12   |   x4    |         |              |  Duas Mãos   |
-| Guarda-Chuva Anormal  |   3   |   2   |   3d6    |  18/x3  |         |              |   Uma Mão    |
+|   Armas    | Level | Peso  |   Dano   | Crítico | Alcance | D. Tipo |   Prop.   |
+| ---------- | :---: | :---: | :------: | :-----: | :-----: | :-----: | :-------: |
+| Coronhada  |   -   |   -   | 1d4/1d6  |   x2    |    -    |    I    |   Leve    |
+| Faca       |   1   |   1   |   1d4    |   19    |    C    |    C    |   Leve    |
+| Martelo    |   1   |   1   |   1d6    |   x2    |    -    |    I    |   Leve    |
+| Punhal     |   1   |   1   |   1d4    |   x3    |    -    |    P    |   Leve    |
+| Bastão     |   1   |   1   | 1d6/1d8  |   x2    |    -    |    I    |  Uma Mão  |
+| Machete    |   1   |   1   |   1d6    |   19    |    C    |    C    |  Uma Mão  |
+| Lança      |   1   |   1   |   1d6    |   x2    |    C    |    P    |  Uma Mão  |
+| Cajado     |   1   |   2   |   1d6    |   x2    |    -    |    I    | Duas Mãos |
+| Machadinha |   2   |   1   |   1d6    |   x3    |    C    |    C    |   Leve    |
+| Nunchaku   |   2   |   1   |   1d8    |   x2    |    -    |    I    |   Leve    |
+| Corrente   |   2   |   1   |   1d8    |   x2    |    -    |    I    |   Leve    |
+| Espada     |   2   |   1   | 1d8/1d10 |   19    |    -    |    C    |  Uma Mão  |
+| Florete    |   2   |   1   |   1d6    |   18    |    -    |    C    |  Uma Mão  |
+| Machado    |   2   |   1   |   1d8    |   x3    |    C    |    C    |  Uma Mão  |
+| Maça       |   2   |   1   |   2d4    |   x2    |    -    |    I    |  Uma Mão  |
+| Acha       |   2   |   2   |   1d12   |   x3    |    -    |    C    | Duas Mãos |
+| Gadanho    |   2   |   2   |   2d4    |   x4    |    -    |    C    | Duas Mãos |
+| Katana     |   2   |   2   |   1d10   |   19    |    -    |    C    | Duas Mãos |
+| Marrete    |   2   |   2   |   3d4    |   x2    |    -    |    I    | Duas Mãos |
+| Montante   |   2   |   2   |   2d6    |   19    |    -    |    C    | Duas Mãos |
+| Motoserra  |   2   |   2   |   3d6    |   x2    |    -    |    C    | Duas Mãos |
+| Martelão   |   3   |   4   |   2d12   |   x4    |    -    |    I    | Duas Mãos |
 
 ### Arma de Disparo
 
-Arco (1)
-Besta (1)
-Arco Composto (2)
-Balestra (2)
-Mega Belestra (3) (C: IV, E: 3) (D: 2d12, C: 18) (Duas Mãos)
-Mega Arco Composto (3) (C: IV, E: 3) (D: 2d10, C: x4) (Duas Mãos)
+|       Armas        | Level | Peso  | Dano  | Crítico | Alcance | D. Tipo |   Prop.   |
+| ------------------ | :---: | :---: | :---: | :-----: | :-----: | :-----: | :-------: |
+| Arco               |   1   |   2   |  1d6  |   x3    |    M    |    P    | Duas Mãos |
+| Besta              |   1   |   2   |  1d8  |   19    |    M    |    P    | Duas Mãos |
+| Arco Composto      |   2   |   2   | 1d10  |   x3    |    M    |    P    | Duas Mãos |
+| Balestra           |   2   |   2   | 1d12  |   19    |    M    |    P    | Duas Mãos |
+| Mega Arco Composto |   3   |   3   | 2d10  |   x4    |    L    |    P    | Duas Mãos |
+| Mega Belestra      |   3   |   3   | 2d12  |   18    |    L    |    P    | Duas Mãos |
 
 ### Arma de Fogo
 
-Pistola (1)
-Revólver (1)
-Fuzil de Caça (1)
-Submetralhadora (2)
-Espingarda (2)
-Fuzil de Assalto (2)
-Fuzil de Precisão (2)
-Bazuca (3)
-Lança-Chamas (3)
-Metralhadora (3)
-
-### Explosivos
-
-Granada de Atordoamento
-Granada de Fragmentação
-Granada de Fumaça
-Granada Incendiária
-Granada de Gás Venenoso (C: II, E: 1)
-Mina Antipessoal
+|       Armas       | Level | Peso  | Dano  | Crítico | Alcance | D. Tipo |   Prop.   |
+| ----------------- | :---: | :---: | :---: | :-----: | :-----: | :-----: | :-------: |
+| Pistola           |   1   |   1   | 1d12  |   18    |    C    |    B    |   Leve    |
+| Revólver          |   1   |   1   |  2d6  |  19/x3  |    C    |    B    |   Leve    |
+| Fuzil de Caça     |   1   |   2   |  2d8  |  19/x3  |    M    |    B    | Duas Mãos |
+| Submetralhadora   |   2   |   1   |  2d6  |  19/x3  |    C    |    B    |  Uma Mão  |
+| Espingarda        |   2   |   2   |  4d6  |   x3    |    C    |    B    | Duas Mãos |
+| Fuzil de Assalto  |   2   |   2   | 2d10  |  19/x3  |    M    |    B    | Duas Mãos |
+| Fuzil de Precisão |   2   |   2   | 2d10  |  19/x3  |    L    |    B    | Duas Mãos |
+| Bazuca            |   3   |   2   | 10d8  |   x2    |    M    |    I    | Duas Mãos |
+| Lança-Chamas      |   3   |   2   |  6d6  |   x2    |    C    |  Fogo   | Duas Mãos |
+| Metralhadora      |   3   |   2   | 2d12  |  19/x3  |    M    |    B    | Duas Mãos |
+| Minigun           |   3   |   4   | 10d6  |   x2    |    M    |    B    | Duas Mãos |

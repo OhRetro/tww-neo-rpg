@@ -1,6 +1,6 @@
 # [↺ Voltar](../RPG.md) / Player
 
-1. [Level, Reputação e Rank](./Player/LRR.md)
+1. [Level, Rank e Reputação](./Player/LRR.md)
 2. [Classes](./Player/Classes.md)
 3. [Poderes](./Player/Poderes.md)
 4. [Habilidades](./Player/Habilidades.md)

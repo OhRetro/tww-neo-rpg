@@ -61,7 +61,7 @@ Custo de EE: +2
 O Custo de EE passa a ser apenas o Level da Arma.
 
 Custo: 1 PU  
-Req.: Rank V  
+Req.: Rank V e Upgrade "Custo Eficaz I"  
 Novo Custo de EE Base: [Level da Arma]
 
 #### Upgrade "Auto Provido II"
@@ -69,7 +69,7 @@ Novo Custo de EE Base: [Level da Arma]
 Pode summonar uma Arma Level 2 de uma Outra Classe.
 
 Custo: 1 PU  
-Req.: Rank V  
+Req.: Rank V e Upgrade "Auto Provido I"  
 Custo de EE: +2
 
 [EV]: https://static.wikia.nocookie.net/powerlisting/images/b/b7/Hol_Horse_(JoJo)_Emperor.gif

@@ -2,11 +2,19 @@
 
 ## Ataque em Movimento
 
-Ataque em Movimento é uma habilidade que permite ao usuário atacar e mover ao mesmo tempo. Quando usado em Armas de Fogo/Disparo caso o Alvo estiver na Distância: Curta: -2, Média: -5, Longa: -10 em Acerto, Armas de Corpo a Corpo se aplicam caso for lançar elas.
+Ataque em Movimento é uma habilidade que permite ao usuário atacar e mover ao mesmo tempo, o usuário pode se mover para um local pré-determinado independentemente se o atque foi uma falha.  
+Ao usar em Armas de Fogo/Disparo ou Lançar Armas de Corpo a Corpo como facas, terá desvantagem:
+
+| Desvantagem | Valor |
+| ----------- | :---: |
+| Curto       |  -2   |
+| Médio       |  -5   |
+| Longo       |  -10  |
+| Extremo     |  -15  |
 
 Armas Aplicadas: Todos.
 
 Ação Padrão.  
 Duração: Instantânea  
-Req. com Armas de Disparo/Fogo: Perícia: Pontaria  
+Req.: Perícia: Pontaria (Apenas quando usar Armas de Fogo/Disparo ou Lançar Armas de Corpo a Corpo)  
 Custo de EE: 3
