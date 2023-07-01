@@ -1,4 +1,4 @@
-# [↺ Voltar](../../Raças.md) / Habilidades de Raça
+# [↺ Voltar](../../Racas.md) / Habilidades de Raça
 
 ## Sugar Sangue
 

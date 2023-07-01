@@ -1,4 +1,4 @@
-# [↺ Voltar](../Raças.md) / Raças
+# [↺ Voltar](../Racas.md) / Raças
 
 ## Meio-Meio
 
