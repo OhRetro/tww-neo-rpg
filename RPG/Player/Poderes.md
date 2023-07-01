@@ -2,8 +2,8 @@
 
 ## Lista de Poderes
 
-- [Summonar Arma](./Poderes/Summonar-Arma.md)
-- [Ataque Desarmado](./Poderes/Ataque-Desarmado.md)
+- [Summonar Arma](./Poderes/SA.md)
+- [Ataque Desarmado](./Poderes/AD.md)
 
 ## Pontos de Upgrades (PU)
 
@@ -14,11 +14,11 @@ Esses Upgrades são Melhorias que deixa o Poder mais Forte ou mais Conveniente.
 
 ## Lista de Poderes não Resmaterizado ainda
 
-- [Ataque Espiritual](./Poderes/Ataque-Espiritual.md) un  
-- [Escudeiro](./Poderes/Escudeiro.md) un  
-- [Aprimorar Corpo](./Poderes/Aprimorar-Corpo.md) un  
-- [Summonar Explosivos](./Poderes/Summonar-Explosivos.md) un  
-- [Empunhadura Dupla](./Poderes/Empunhadura-Dupla.md) un  
-- [Armado Até os Dentes](./Poderes/Armado-Até-os-Dentes.md) un  
-- [Aprimoração de Arma](./Poderes/Aprimoração-de-Arma.md) un  
-- [Anel de Armas](./Poderes/Anel-de-Armas.md) un  
+- [Ataque Espiritual](./Poderes/AE.md) un  
+- [Escudeiro](./Poderes/Esc.md) un  
+- [Aprimorar Corpo](./Poderes/AC.md) un  
+- [Summonar Explosivos](./Poderes/SE.md) un  
+- [Empunhadura Dupla](./Poderes/ED.md) un  
+- [Armado Até os Dentes](./Poderes/AAoD.mdd) un  
+- [Aprimoração de Arma](./Poderes/APdA.md) un  
+- [Anel de Armas](./Poderes/ANdA.md) un  
