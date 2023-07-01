@@ -19,6 +19,6 @@ Esses Upgrades são Melhorias que deixa o Poder mais Forte ou mais Conveniente.
 - [Aprimorar Corpo](./Poderes/AC.md) un  
 - [Summonar Explosivos](./Poderes/SE.md) un  
 - [Empunhadura Dupla](./Poderes/ED.md) un  
-- [Armado Até os Dentes](./Poderes/AAoD.mdd) un  
+- [Armado Até os Dentes](./Poderes/AAoD.md) un  
 - [Aprimoração de Arma](./Poderes/APdA.md) un  
 - [Anel de Armas](./Poderes/ANdA.md) un  
