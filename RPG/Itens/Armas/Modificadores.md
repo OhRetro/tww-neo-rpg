@@ -23,7 +23,7 @@ Não é possivel ter dois da mesma modificação.
 | Calibre Grosso   | Aumenta o dano em mais um dado do mesmo tipo                          |
 | Compensador      | Anula penalidade por rajadas                                          |
 | Discreta         | +5 em testes de ocultar e reduz o espaço em –1                        |
-| Ferrolho         | Automático - A arma se torna automática                               |
+| Ferrolho Automático       | A arma se torna automática                                   |
 | Mira Laser       | +2 em margem de ameaça                                                |
 | Mira Telescópica | Aumenta alcance da arma e da habilidade Ataque Furtivo                |
 | Silenciador      | Reduz em –10 a penalidade em Furtividade para se esconder após atacar |
