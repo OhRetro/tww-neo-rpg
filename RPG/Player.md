@@ -8,9 +8,7 @@
 ## Ficha Template
 
 Nome:  
-Idade: 17 + (d6)  
-Raça:
-
+Raça:  
 
 Classe:  
 Level: 1  
