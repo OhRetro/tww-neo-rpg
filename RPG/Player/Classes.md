@@ -1,4 +1,4 @@
-# [↺ Voltar](../Player.md) / Classes
+# Classes
 
 ## Sobre
 

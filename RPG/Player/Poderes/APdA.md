@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Aprimoração de Arma
+# Aprimoração de Arma
 
 Aprimora uma Arma, Adicionando uma Melhoria.
 Pode Aprimorar uma Arma de uma outra Pessoa ou Proprio.

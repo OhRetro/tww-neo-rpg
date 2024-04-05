@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Empunhadura Dupla
+# Empunhadura Dupla
 
 Similar ao "Summonar Arma".
 Summona Duas Armas Leve ou de Uma Mão de escolha da respectiva Classe do Usuario.

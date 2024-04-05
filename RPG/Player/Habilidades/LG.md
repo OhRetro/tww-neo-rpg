@@ -1,6 +1,4 @@
-# [↺ Voltar](../Habilidades.md) / Habilidades
-
-## Longo Golpe
+# Longo Golpe
 
 Longo Golpe é uma habilidade que permite ao usuário atacar Alvos que estejam na reta do usuário que portanto estejam no deslocamento máximo do usuário e o usuário move para a ponta da reta que foi escolhido.
 

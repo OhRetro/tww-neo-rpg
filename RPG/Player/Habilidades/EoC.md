@@ -1,6 +1,4 @@
-# [↺ Voltar](../Habilidades.md) / Habilidades
-
-## Espalhar o Caos
+# Espalhar o Caos
 
 Espalhar o Caos é uma habilidade que permite ao usuário dispara uma rajada de balas de forma ampla, causando danos em todos os alvos próximos (2m de Distancia em volta do Alvo Primario).
 

@@ -1,4 +1,4 @@
-# RPG
+# The Weapon Witches: Neo RPG
 
 1. [Player](./RPG/Player.md)
 2. [Raças](./RPG/Racas.md)

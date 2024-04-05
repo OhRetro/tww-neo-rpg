@@ -1,4 +1,4 @@
-# [↺ Voltar](../RPG.md) / Raças
+# Raças
 
 ## Lista de Raças
 

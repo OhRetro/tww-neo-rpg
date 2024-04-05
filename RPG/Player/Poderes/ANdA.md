@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Anel de Armas
+# Anel de Armas
 
 Similar ao "Empunhadura Dupla" ou "Armado Até os Dentes".
 Um Anel de Armas é Summonado e aparece em volta do Usuario.

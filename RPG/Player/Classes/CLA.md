@@ -1,6 +1,4 @@
-# [↺ Voltar](../Classes.md) / Classes
-
-## Bruxo Lunático do Arsenal
+# Bruxo Lunático do Arsenal
 
 A Classe Suprema.
 

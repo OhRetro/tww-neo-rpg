@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Armado Até os Dentes
+# Armado Até os Dentes
 
 Similar ao "Empunhadura Dupla".
 Summona Duas Armas de Duas Mão de escolha da respectiva Classe do Usuario.

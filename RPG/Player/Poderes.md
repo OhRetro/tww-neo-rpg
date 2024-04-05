@@ -1,4 +1,4 @@
-# [↺ Voltar](../Player.md) / Poderes
+# Poderes
 
 ## Lista de Poderes
 
@@ -22,3 +22,5 @@ Esses Upgrades são Melhorias que deixa o Poder mais Forte ou mais Conveniente.
 - [Armado Até os Dentes](./Poderes/AAoD.md) un  
 - [Aprimoração de Arma](./Poderes/APdA.md) un  
 - [Anel de Armas](./Poderes/ANdA.md) un  
+
+un = legado TWW original

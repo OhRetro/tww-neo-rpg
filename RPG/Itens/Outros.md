@@ -1,10 +1,8 @@
-# [↺ Voltar](../Itens.md) / Outros
-
-## Outros
+# Outros
 
 Também há outros tipos de itens que não tem uma categoria especifica.
 
-### Explosivos
+## Explosivos
 
 |       Explosivos        |
 | ----------------------- |

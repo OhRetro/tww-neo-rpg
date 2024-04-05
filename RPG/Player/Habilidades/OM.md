@@ -1,6 +1,4 @@
-# [↺ Voltar](../Habilidades.md) / Habilidades
-
-## O Matrix
+# O Matrix
 
 O Matrix é uma habilidade que permite ao usuário a capacidade de desviar de ataques como balas e outras ameaças com mais velocidade e destreza.
 

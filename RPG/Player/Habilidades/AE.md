@@ -1,6 +1,4 @@
-# [↺ Voltar](../Habilidades.md) / Habilidades
-
-## Ataque Espiral
+# Ataque Espiral
 
 Ataque Espiral é uma habilidade que permite ao usuário atacar varios Alvos em volta; Apenas um teste de Ataque é feito.
 

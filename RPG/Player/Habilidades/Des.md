@@ -1,6 +1,4 @@
-# [↺ Voltar](../Habilidades.md) / Habilidades
-
-## Desarmagem
+# Desarmagem
 
 Desarmagem é uma habilidade que permite ao jogador desarmar seus oponentes, removendo suas armas e impossibilitando seu uso.
 

@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Ataque Desarmado
+# Ataque Desarmado
 
 Um Sinal de Pistola com a Mão.  
 Uma opção Barata e Discreta.  

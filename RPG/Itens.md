@@ -1,4 +1,4 @@
-# [↺ Voltar](../RPG.md) / Itens
+# Itens
 
 ## Lista de Tipos Itens
 

@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Ataque Espiritual
+# Ataque Espiritual
 
 Uma Esfera Pequena do Elemento do Usuario é Summonado para atingir um Alvo.
 

@@ -1,11 +1,9 @@
-# [↺ Voltar](../Itens.md) / Armas
-
-## Armas
+# Armas
 
 As armas podem assumir diversas formas, desde espadas afiadas, machados e arcos até pistolas e lanças.  
 Elas também tem [Modificadores](./Armas/Modificadores.md).
 
-### Tipos de Danos
+## Tipos de Danos
 
 Cada arma tem seus tipos de danos.
 
@@ -16,7 +14,7 @@ Cada arma tem seus tipos de danos.
 | Perfuração     |       P       |
 | Balístico      |       B       |
 
-### Alcances
+## Alcances
 
 Cada arma tem seus alcances.
 
@@ -27,7 +25,7 @@ Cada arma tem seus alcances.
 | Longo    |  36m  |       L       |
 | Extremo  |  90m  |       X       |
 
-### Armas de Corpo a Corpo
+## Armas de Corpo a Corpo
 
 |   Armas    | Level | Peso  |   Dano   | Crítico | Alcance | D. Tipo |   Prop.   |
 | ---------- | :---: | :---: | :------: | :-----: | :-----: | :-----: | :-------: |
@@ -54,7 +52,7 @@ Cada arma tem seus alcances.
 | Motoserra  |   2   |   2   |   3d6    |   x2    |    -    |    C    | Duas Mãos |
 | Martelão   |   3   |   4   |   2d12   |   x4    |    -    |    I    | Duas Mãos |
 
-### Arma de Disparo
+## Arma de Disparo
 
 |       Armas        | Level | Peso  | Dano  | Crítico | Alcance | D. Tipo |   Prop.   |
 | ------------------ | :---: | :---: | :---: | :-----: | :-----: | :-----: | :-------: |
@@ -65,7 +63,7 @@ Cada arma tem seus alcances.
 | Mega Arco Composto |   3   |   3   | 2d10  |   x4    |    L    |    P    | Duas Mãos |
 | Mega Belestra      |   3   |   3   | 2d12  |   18    |    L    |    P    | Duas Mãos |
 
-### Arma de Fogo
+## Arma de Fogo
 
 |       Armas       | Level | Peso  | Dano  | Crítico | Alcance | D. Tipo |   Prop.   |
 | ----------------- | :---: | :---: | :---: | :-----: | :-----: | :-----: | :-------: |

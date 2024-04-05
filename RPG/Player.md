@@ -1,4 +1,4 @@
-# [↺ Voltar](../RPG.md) / Player
+# Player
 
 1. [Level, Rank e Reputação](./Player/LRR.md)
 2. [Classes](./Player/Classes.md)
@@ -11,8 +11,6 @@ Nome:
 Idade: 17 + (d6)  
 Raça:
 
-Olho Dominante:  
-Mão Dominante:  
 
 Classe:  
 Level: 1  

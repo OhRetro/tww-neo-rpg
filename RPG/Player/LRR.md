@@ -1,4 +1,4 @@
-# [↺ Voltar](../Player.md) / L.R.R
+# Level, Rank e Reputação
 
 ## Level
 

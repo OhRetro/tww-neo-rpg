@@ -1,4 +1,4 @@
-# [↺ Voltar](../Player.md) / Habilidades
+# Habilidades
 
 ## Lista de Habilidades
 

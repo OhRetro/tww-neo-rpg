@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Aprimorar Corpo
+# Aprimorar Corpo
 
 O Corpo do Usuario é Aprimorado para o Combate.
 

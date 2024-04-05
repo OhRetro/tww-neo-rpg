@@ -1,11 +1,9 @@
-# [↺ Voltar](../Armas.md) / Modificadores de Armas
-
-## Modificadores de Armas e Munição
+# Modificadores de Armas e Munição
 
 Modificações para sua arma ou munição que deixam a sua dinâmica interessante.  
 Não é possivel ter dois da mesma modificação.
 
-### Armas de Corpo a Corpo e Disparo
+## Armas de Corpo a Corpo e Disparo
 
 | Armas de Corpo a Corpo e Disparo |                     Modificações                     |
 | ----------------------------- | ---------------------------------------------------- |
@@ -15,7 +13,7 @@ Não é possivel ter dois da mesma modificação.
 | Perigosa                      | +2 em margem de ameaça                               |
 | Tática                        | Pode sacar como ação livre                           |
 
-### Armas de Fogo
+## Armas de Fogo
 
 |  Armas de Fogo   |                             Modificações                              |
 | ---------------- | --------------------------------------------------------------------- |
@@ -30,7 +28,7 @@ Não é possivel ter dois da mesma modificação.
 | Tática           | Pode sacar como ação livre                                            |
 | Visão de Calor   | Ignora camuflagem                                                     |
 
-### Munições
+## Munições
 
 | Munições  |          Modificações          |
 | --------- | ------------------------------ |

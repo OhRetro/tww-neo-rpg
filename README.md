@@ -1,3 +1,3 @@
-# [The Weapon Witches: Neo RPG](https://tww-neo-rpg-nuxtjs-webpage.vercel.app/)
+# The Weapon Witches: Neo
 
 "Livro" de Regras do meu RPG, TWW: Neo

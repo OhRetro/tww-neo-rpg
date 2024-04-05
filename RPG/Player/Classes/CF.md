@@ -1,6 +1,4 @@
-# [↺ Voltar](../Classes.md) / Classes
-
-## Bruxo das Armas de Fogo
+# Bruxo das Armas de Fogo
 
 Uma Classe especializado em Armas de Fogo.
 
@@ -10,7 +8,7 @@ Cada Level: +(2 + [VIG]) HP Máximo
 Energia Espiritual (EE) Inicial: 5 + Presença  
 Cada Level: +(4 + [PRE]) EE Máximo
 
-### Pericias
+## Pericias
 
 Pontaria (Agi)  
 Percepção (Pre) ou Intimidação (Pre)  

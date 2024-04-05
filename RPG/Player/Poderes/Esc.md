@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Escudeiro
+# Escudeiro
 
 Um Escudo Flutuante é Summonado e Aparece em volta do Usuario.
 É Efetivo contra Armas de Disparos Simples.

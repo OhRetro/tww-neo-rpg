@@ -1,6 +1,4 @@
-# [↺ Voltar](../Poderes.md) / Poderes
-
-## Summonar Arma
+# Summonar Arma
 
 O Usuario manifesta uma Arma de seu Espirito.  
 Summona uma Arma de escolha da respectiva Classe do Usuario.  
