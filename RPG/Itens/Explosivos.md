@@ -1,8 +1,6 @@
-# Outros
+# Explosivos
 
-Também há outros tipos de itens que não tem uma categoria especifica.
-
-## Explosivos
+Eles explodem.
 
 |       Explosivos        |
 | ----------------------- |

@@ -8,11 +8,9 @@
 
 Um RPG inspirado em Ordem Paranormal, onde o mundo está em um estado pós-apocalíptico após uma invasão de monstros que vieram do mundo espiritual, causando mudanças na natureza das coisas. Pessoas estão despertando poderes sobrenaturais e outras transformações ocorreram.
 
+Projeto Iniciado: 29/12/22  
+Remake do Projeto: 02/06/23
+
 ## Temas
 
-Fantasia, Distopia, Pós-Apocaliptico, Cyberpunk, Mafia, Gang
-
-## Outros
-
-Iniciado: 29/12/22  
-Reboot Iniciado: 2/6/23
+Fantasia, Distopia, Pós-Apocaliptico
